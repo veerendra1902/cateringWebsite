@@ -1,0 +1,7 @@
+{
+  "name": "peetam foods",
+  "description": "Catering Website",
+  "repository": "https://github.com/heroku/cateringWebsite",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
